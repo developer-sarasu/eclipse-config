@@ -1,5 +1,29 @@
 # Eclipse Configurations
 
+## Code Template
+* Windows
+	* Eclipse > Windows > Preference
+	* Java > Code Style > Code Template
+	* Import
+		  * "CodeTemplates for Java dev-sarasu.xml"
+* OSX
+	* Eclipse > Preference
+	* Java > Code Style > Code Template
+	* Import
+		  * "CodeTemplates for Java dev-sarasu.xml"
+
+## Organize Import
+* Windows
+	* Eclipse > Windows > Preference
+	* Java > Code Style > Organize Imports
+	* Import
+		* "dev-sarasu.importorder"
+* OSX
+	* Eclipse > Preference
+	* Java > Code Style > Organize Imports
+	* Import
+		* "dev-sarasu.importorder"
+
 ## Formatter
 * Windows
 	* Eclipse > Window > Preferences 
@@ -25,14 +49,3 @@
 * If you don't want formatting automatically, do not check these options.
 	* "ctrl+shift+f" or "cmd+shift+f" could make to work for formatting instantly.
 	
-## Code Template
-* Windows
-	* Eclipse > Windows > Preference
-	* Java > Code Style > Code Template
-	* Import
-		  * "CodeTemplates for Java dev-sarasu.xml"
-* OSX
-	* Eclipse > Preference
-	* Java > Code Style > Code Template
-	* Import
-		  * "CodeTemplates for Java dev-sarasu.xml"
