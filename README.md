@@ -6,11 +6,13 @@
 	* Java > Code Style > Code Template
 	* Import
 		  * "CodeTemplates for Java dev-sarasu.xml"
+	* Check "Automatically add comments for new methods and types" option
 * OSX
 	* Eclipse > Preference
 	* Java > Code Style > Code Template
 	* Import
 		  * "CodeTemplates for Java dev-sarasu.xml"
+	* Check "Automatically add comments for new methods and types" option
 
 ## Organize Import
 * Windows
